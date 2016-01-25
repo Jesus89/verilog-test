@@ -1,0 +1,7 @@
+{
+  "name": "setbit",
+  "author": "Jesus89",
+  "description": "setbit example",
+  "license": "GPLv2",
+  "dependencies" : ["Jesus89/verilog-dep"]
+}
